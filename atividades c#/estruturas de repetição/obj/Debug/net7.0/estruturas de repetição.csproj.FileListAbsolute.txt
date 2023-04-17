@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\estruturas de repetição\bin\Debug\net7.0\estruturas de repetição.exe
+C:\Users\54750759805\Desktop\estruturas de repetição\bin\Debug\net7.0\estruturas de repetição.deps.json
+C:\Users\54750759805\Desktop\estruturas de repetição\bin\Debug\net7.0\estruturas de repetição.runtimeconfig.json
+C:\Users\54750759805\Desktop\estruturas de repetição\bin\Debug\net7.0\estruturas de repetição.dll
+C:\Users\54750759805\Desktop\estruturas de repetição\bin\Debug\net7.0\estruturas de repetição.pdb
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\estruturas de repetição.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\estruturas de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\estruturas de repetição.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\estruturas de repetição.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\estruturas de repetição.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\estruturas de repetição.dll
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\refint\estruturas de repetição.dll
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\estruturas de repetição.pdb
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\estruturas de repetição.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\estruturas de repetição\obj\Debug\net7.0\ref\estruturas de repetição.dll

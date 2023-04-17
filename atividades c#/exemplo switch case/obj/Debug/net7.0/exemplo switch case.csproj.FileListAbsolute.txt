@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\exemplo switch case\bin\Debug\net7.0\exemplo switch case.exe
+C:\Users\54750759805\Desktop\exemplo switch case\bin\Debug\net7.0\exemplo switch case.deps.json
+C:\Users\54750759805\Desktop\exemplo switch case\bin\Debug\net7.0\exemplo switch case.runtimeconfig.json
+C:\Users\54750759805\Desktop\exemplo switch case\bin\Debug\net7.0\exemplo switch case.dll
+C:\Users\54750759805\Desktop\exemplo switch case\bin\Debug\net7.0\exemplo switch case.pdb
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\exemplo switch case.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\exemplo switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\exemplo switch case.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\exemplo switch case.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\exemplo switch case.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\exemplo switch case.dll
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\refint\exemplo switch case.dll
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\exemplo switch case.pdb
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\exemplo switch case.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\exemplo switch case\obj\Debug\net7.0\ref\exemplo switch case.dll

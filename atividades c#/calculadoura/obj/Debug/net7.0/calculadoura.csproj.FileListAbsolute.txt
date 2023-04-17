@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\calculadoura\bin\Debug\net7.0\calculadoura.exe
+C:\Users\54750759805\Desktop\calculadoura\bin\Debug\net7.0\calculadoura.deps.json
+C:\Users\54750759805\Desktop\calculadoura\bin\Debug\net7.0\calculadoura.runtimeconfig.json
+C:\Users\54750759805\Desktop\calculadoura\bin\Debug\net7.0\calculadoura.dll
+C:\Users\54750759805\Desktop\calculadoura\bin\Debug\net7.0\calculadoura.pdb
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\calculadoura.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\calculadoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\calculadoura.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\calculadoura.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\calculadoura.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\calculadoura.dll
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\refint\calculadoura.dll
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\calculadoura.pdb
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\calculadoura.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\calculadoura\obj\Debug\net7.0\ref\calculadoura.dll
